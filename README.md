@@ -1,0 +1,1 @@
+Developed a Java console-based Hospital Management System to manage patient and doctor records efficiently. The application allows adding and viewing patients, viewing doctors, and booking appointments through a menu driven interface.” It helps streamline basic hospital operations using core Java concepts. 
